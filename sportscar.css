@@ -1,0 +1,34 @@
+body{
+	font-family: "Marker Felt", "Calibri", fantasy;
+
+}
+
+h1 {
+	font-size: 1.7em;
+	text-align: center;
+	color:MidnightBlue;
+}
+
+table {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: left;
+	border-collapse: collapse;
+}
+
+tr {
+	border: 1px solid #ffffff;
+	text-align: center;
+	background-color:#9FB6CD; 
+}
+
+th {
+	text-align: center;
+	color: #ffffff;
+	background-color: #003366;
+}
+
+img {
+	margin-left: 33%;
+	margin-right: 25%;
+}
